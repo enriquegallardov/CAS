@@ -1,3 +1,3 @@
 # CAS
 
-IB DP CAS portfolio
+IB DP CAS logbook

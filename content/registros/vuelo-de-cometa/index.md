@@ -3,8 +3,7 @@ title: "Vuelo de cometa"
 date: 2022-08-29
 DateFormat: "09/29/22"
 author: "Enrique Gallardo"
-comments: true
-draft: true
+draft: false
 ---
 
 ### Áreas de CAS

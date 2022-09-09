@@ -11,11 +11,11 @@ subtitle = "Enrique Gallardo"
 
   [[params.profileMode.buttons]]
   name = "Archivo"
-  url = "/archivo"
+  url = "/CAS/archivo"
 
   [[params.profileMode.buttons]]
   name = "Registros"
-  url = "/registros"
+  url = "/CAS/registros"
 
   [[params.profileMode.buttons]]
   name = "Github"

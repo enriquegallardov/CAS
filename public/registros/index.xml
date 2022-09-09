@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Registros on Bitácora CAS</title>
-    <link>http://example.org/registros/</link>
+    <link>https://enriquegallardov.github.io/CAS/registros/</link>
     <description>Recent content in Registros on Bitácora CAS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/registros/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enriquegallardov.github.io/CAS/registros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vuelo de cometa</title>
-      <link>http://example.org/registros/vuelo-de-cometa/</link>
+      <link>https://enriquegallardov.github.io/CAS/registros/vuelo-de-cometa/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/registros/vuelo-de-cometa/</guid>
+      <guid>https://enriquegallardov.github.io/CAS/registros/vuelo-de-cometa/</guid>
       <description>Áreas de CAS Creatividad: Tuve que ser creativo para diseñar la cometa con los materiales limitados que tenía. Actividad: Despúes de la creación de la cometa, tuve que correr afuera durante media hora para probar si servía. Servicio: No hubo elemento de servicio en esta experiencia CAS. Etapas de CAS Investigación: Para crear nuestra cometa, tuvimos que investigar un poco, principalmente hablando con un profesor, para saber cómo crear una cometa adecuadamente.</description>
     </item>
     

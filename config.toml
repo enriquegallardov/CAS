@@ -1,4 +1,28 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'es-co'
+title = 'Bitácora CAS'
 theme = 'PaperMod'
+[outputs]
+home = [ 'HTML', 'RSS', 'JSON' ]
+[params.profileMode]
+enabled = true
+title = "Bitácora CAS • 2022-2024"
+subtitle = "Enrique Gallardo"
+
+  [[params.profileMode.buttons]]
+  name = "Archivo"
+  url = "/archivo"
+
+  [[params.profileMode.buttons]]
+  name = "Registros"
+  url = "/registros"
+
+  [[params.profileMode.buttons]]
+  name = "Github"
+  url = "https://github.com/enriquegallardov"
+
+[params.homeInfoParams]
+Title = "Bitácora CAS • 2022-2024"
+Content = "Enrique Gallardo"
+
+

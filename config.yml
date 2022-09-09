@@ -13,8 +13,6 @@ params:
     title: Bitácora CAS • 2022-2024
     subtitle: Enrique Gallardo
     buttons:
-      - name: Archivo
-        url: "/CAS/archivo/"
       - name: Registros
         url: "/CAS/registros/"
       - name: Github

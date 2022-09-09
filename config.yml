@@ -14,9 +14,9 @@ params:
     subtitle: Enrique Gallardo
     buttons:
       - name: Archivo
-        url: "/CAS/archivo"
+        url: "/CAS/archivo/"
       - name: Registros
-        url: "/CAS/registros"
+        url: "/CAS/registros/"
       - name: Github
         url: "https://github.com/enriquegallardov"
   homeInfoParams:

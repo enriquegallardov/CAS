@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://enriquegallardov.github.io/CAS/'
 languageCode = 'es-co'
 title = 'Bitácora CAS'
 theme = 'PaperMod'

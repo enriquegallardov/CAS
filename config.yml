@@ -20,3 +20,13 @@ params:
   homeInfoParams:
     Title: Bitácora CAS • 2022-2024
     Content: Enrique Gallardo
+menu:
+  main:
+    - identifier: archive
+      name: Archivos
+      url: /archivos/
+      weight: 10
+    - identifier: busqueda
+      name: Busqueda
+      url: /busqueda/
+      weight: 20

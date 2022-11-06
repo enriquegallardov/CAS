@@ -1,8 +1,8 @@
 ---
 title: "Busqueda"
 layout: "search"
-url: "/CAS/busqueda/"
+url: "/busqueda/"
 # description: "Search"
-summary: "search"
+summary: "busqueda"
 placeholder: "Haz tu busqueda..."
 ---

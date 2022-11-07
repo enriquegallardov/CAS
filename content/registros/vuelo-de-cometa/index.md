@@ -1,7 +1,7 @@
 ---
 title: "Vuelo de cometa"
 date: 2022-08-29
-DateFormat: "09/29/22"
+DateFormat: "29.09.22"
 author: "Enrique Gallardo"
 ---
 

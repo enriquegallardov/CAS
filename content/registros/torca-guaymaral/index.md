@@ -26,7 +26,7 @@ author: "Enrique Gallardo"
 - **Pensadores**: Considere diversas maneras de cavar los huecos para ser más eficiente.
 - **Comunicadores**: Tuve que comunicarme eficientemente con mi compañero para cavar el hueco de manera eficaz.
 - **Íntegros**: Ayudé a mis compañeros de clase cuando necesitaban ayuda para cargar sus palas o sus árboles.
-- Mente abierto
+- Mente abierta
 - Solidarios
 - Audaces
 - Balanceados

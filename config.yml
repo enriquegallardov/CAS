@@ -1,6 +1,6 @@
 baseURL: "https://enriquegallardov.github.io/CAS/"
 languageCode: es-co
-title: Bitácora CAS
+title: CAS
 theme: PaperMod
 outputs:
   home:
@@ -10,15 +10,17 @@ outputs:
 params:
   profileMode:
     enabled: true
-    title: Bitácora CAS • 2022-2024
+    title: CAS • 2022-2024
     subtitle: Enrique Gallardo
     buttons:
       - name: Registros
         url: "/CAS/registros/"
+      - name: PIP
+        url: "/CAS/pip/"
       - name: Github
         url: "https://github.com/enriquegallardov"
   homeInfoParams:
-    Title: Bitácora CAS • 2022-2024
+    Title: CAS • 2022-2024
     Content: Enrique Gallardo
 menu:
   main:

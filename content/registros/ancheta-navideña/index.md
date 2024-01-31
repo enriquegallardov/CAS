@@ -47,4 +47,5 @@ author: "Enrique Gallardo"
 ![Proceso de creación de la primera decoración](IMG_20240128_204232_170.jpg)
 ![La primera decoración finalizada](IMG_20240128_204238_271.jpg)
 ![Proceso de creación de la segunda decoración](IMG_20240128_204239_883.jpg)
+![Entrevista con la trabajadora](<Screenshot_20240130_221713_Keep Notes.jpg>)
 ![Entregando la ancheta a la trabajadora de servicio](IMG_20240128_204213_484.jpg)

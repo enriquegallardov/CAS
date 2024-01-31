@@ -39,7 +39,7 @@ author: "Enrique Gallardo"
 - **Iniciar y planificar**: Antes de realizar la actividad, tuve que planificar la organización de los materiales y elegir las decoraciones que usaría.
 - **Compromiso y perseverancia**: Demostré compromiso y perseverancia al siempre tener una buena disposición para decorar la ancheta y poniendo mi máximo esfuerzo en ello.
 - Trabajo en equipo y colaborativo
-- Cuestiones de importancia global
+- **Cuestiones de importancia global**: Esta experiencia muestra un impcto en cuestiones de importancia global como son la actitud social de indiferencia y la falta de empatía. La actividad muestra un acto de amabilidad hacia los trabajadores del colegio, lo cual puede tener un impacto positivo en la comunidad.
 - **Aspecto ético**: El aspecto ético de este trabajo se basa en las implicaciones que tiene la actividad en la comunidad, pues las anchetas fueron regaladas a trabajadores del colegio. El regalo de las anchetas es un acto de amabilidad que puede tener un impacto positivo en la comunidad.
 
 ## Evidencias

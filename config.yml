@@ -17,8 +17,6 @@ params:
         url: "/CAS/registros/"
       - name: PIP
         url: "/CAS/pip/"
-      - name: Github
-        url: "https://github.com/enriquegallardov"
   homeInfoParams:
     Title: CAS • 2022-2024
     Content: Enrique Gallardo
